@@ -16,3 +16,6 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0
+/.vs/Demo_Git/v15/Server/sqlite3
+/.vs/config
